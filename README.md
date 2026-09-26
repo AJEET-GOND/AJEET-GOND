@@ -1,212 +1,154 @@
-# 👋 Hi, I'm Ajeet Gond
+# 💫 Hi 👋, I'm Ajeet Gond
 
-### ⚡ Electrical Engineering Student | Software & Embedded Systems | AI Enthusiast
+### ⚡ Electrical Engineering Student | 💻 Software & Embedded Systems | 🤖 AI Enthusiast
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Electrical%20Engineering-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Embedded%20Systems-00979D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Software%20Development-24292F?style=for-the-badge" />
-</p>
+🎓 B.Tech Electrical Engineering Student at **NIT Arunachal Pradesh**
+
+I am passionate about **technology, software development, embedded systems, electronics, automation, and artificial intelligence**. I enjoy turning engineering concepts into practical projects and continuously learning new technologies.
+
+📩 **Open to collaboration, technical projects, internships, and learning opportunities.**
 
 ---
 
 ## 🚀 About Me
 
-I'm **Ajeet Gond**, a B.Tech Electrical Engineering student at **NIT Arunachal Pradesh**, passionate about building technology at the intersection of:
-
-**Software × Electrical Engineering × Electronics × AI**
-
-I'm particularly interested in developing practical systems that combine **programming, embedded hardware, automation, and intelligent technologies**.
-
-I'm actively looking for opportunities to:
-
-- 💼 Work with **technology companies**
-- 🚀 Contribute to real-world engineering projects
-- 🤝 Collaborate with developers and engineers
-- 🔧 Build and improve hardware-software systems
-- 🌱 Learn from industry-level projects
-- 💻 Contribute to **open-source software**
+- 🎓 Electrical Engineering student at **NIT Arunachal Pradesh**
+- 💻 Interested in **Software Development & Programming**
+- ⚡ Exploring **Electrical & Embedded Systems**
+- 🤖 Interested in **Artificial Intelligence & Machine Learning**
+- 🔧 Building projects with **Arduino and sensors**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🌐 Exploring **IoT, Automation & Smart Systems**
+- 🚀 Interested in working on **real-world technology projects**
 
 ---
 
-# 💻 What I Build
+# 💻 Tech Stack
 
-### 🔹 Software Development
-
-- Data Structures & Algorithms
-- Problem solving
-- C / C++
-- Python
-- JavaScript
-- Automation scripts
-
-### 🔹 Embedded Systems
-
-- Arduino-based systems
-- Sensors & actuators
-- Microcontroller programming
-- Hardware-software integration
-- Automation
-
-### 🔹 AI + Engineering
-
-I'm exploring how AI can be applied to engineering problems such as:
-
-- Predictive maintenance
-- Fault detection
-- Energy optimization
-- Intelligent automation
-- Smart electrical systems
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
+### 👨‍💻 Programming
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
 </p>
 
-### Tools & Platforms
+### ⚡ Engineering & Embedded
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
+<img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
-### Engineering
+`Embedded Systems` `Arduino` `Sensors` `Automation` `IoT` `Control Systems`
 
-`Embedded Systems` `IoT` `Sensors` `Automation` `Control Systems` `Electrical Systems`
+### 🛠️ Tools
 
----
-
-# 🔥 Featured Project
-
-## 🌡️ Smart Automatic Temperature Controlled Fan
-
-An embedded automation project that monitors temperature using a **DHT22 sensor** and automatically controls fan operation based on temperature conditions.
-
-### Technology
-
-`Arduino UNO` `DHT22` `LCD` `Sensors` `Motor Control` `Embedded C`
-
-### System Architecture
-
-```text
-       DHT22 Sensor
-             │
-             ▼
-        Arduino UNO
-             │
-      ┌──────┴──────┐
-      ▼             ▼
-   LCD Display    Motor Control
-                     │
-                     ▼
-                    Fan
-```
-
-### What I learned
-
-- Sensor interfacing
-- Microcontroller programming
-- Real-time data processing
-- Motor control
-- Hardware-software integration
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-# 🧠 Currently Learning
+
+## ⚡ AI + Electrical Engineering
+
+Exploring how modern software and AI can be applied to electrical engineering:
+
+- 🔋 Smart energy management
+- ⚙️ Predictive maintenance
+- 🔌 Intelligent automation
+- 🌱 Renewable energy optimization
+- 📊 Energy monitoring & analysis
+
+---
+
+# 📚 Currently Learning
 
 ```text
 C / C++
-     ↓
+   ↓
 Data Structures & Algorithms
-     ↓
+   ↓
 Python
-     ↓
+   ↓
 Embedded Systems
-     ↓
+   ↓
 IoT & Automation
-     ↓
+   ↓
 Artificial Intelligence
-     ↓
+   ↓
 AI + Electrical Engineering
 ```
 
 ---
 
-# 🎯 Career Interests
+# 🎯 What I'm Looking For
 
-I'm interested in opportunities involving:
-
-| Area | Interest |
-|---|---|
-| 💻 Software Engineering | ⭐⭐⭐⭐ |
-| 🤖 Artificial Intelligence | ⭐⭐⭐⭐⭐ |
-| 🔌 Embedded Systems | ⭐⭐⭐⭐⭐ |
-| ⚡ Electrical Technology | ⭐⭐⭐⭐⭐ |
-| 🌐 IoT | ⭐⭐⭐⭐ |
-| 🤖 Robotics & Automation | ⭐⭐⭐⭐ |
-| 🔋 Smart Energy | ⭐⭐⭐⭐ |
-
----
-
-# 💼 Open to Opportunities
-
-I'm interested in connecting with **technology companies, startups, engineering teams, and open-source communities** working on innovative products.
+I'm interested in connecting with **technology companies, startups, engineers, developers, researchers, and open-source communities**.
 
 ### Interested in:
 
-- Software Engineering Internships
-- Embedded Systems Internships
-- AI/ML Opportunities
-- Electrical Engineering Technology Roles
-- IoT & Automation Projects
-- Research & Development
-- Open-Source Collaboration
+💻 Software Engineering  
+🤖 AI / Machine Learning  
+⚡ Electrical Engineering Technology  
+🔌 Embedded Systems  
+🌐 IoT  
+🤖 Robotics & Automation  
+🔋 Smart Energy Systems  
+🧪 Research & Development  
+🌍 Open Source
 
-📩 **If you are working on something interesting, I'd be happy to connect and learn more.**
+**If you're building something interesting, I'd love to connect and learn.**
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🌟 What I'm Working Toward
+# 🌐 Connect With Me
 
-> **Build real projects → solve real problems → contribute to real technology.**
+<p align="left">
 
-My long-term goal is to become an engineer who can work across **software, hardware, embedded systems, and AI** to develop useful technology.
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-# 🤝 Connect With Me
+# 💡 My Focus
 
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+> **Build technology that solves real problems.**
 
-**Open to learning, collaboration, internships, and interesting technology projects.**
+I'm continuously working on improving my **programming, engineering, problem-solving, and project-building skills** while exploring the intersection of **software, hardware, and AI**.
 
 ---
 
 <p align="center">
-  <b>⚡ Build • Learn • Innovate • Repeat ⚡</b>
+
+### ⚡ Learn • Build • Experiment • Innovate ⚡
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+
 </p>
